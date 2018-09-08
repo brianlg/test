@@ -17,3 +17,9 @@ dataread <- read_excel(path = "rebttest.xlsx")
 dataread
 ```
 
+# ADDING SOME NEW STUFF FOR GIT
+
+```{r}
+library(stringr)
+```
+
